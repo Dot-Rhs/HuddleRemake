@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  height: 9.5em;
+
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-left: 80px;
+}
+
+.button {
+  margin-right: 80px;
+  font-size: 18px;
+  box-shadow: 1px 5px 10px #818b8d;
+  border-radius: 50px;
+  border-color: white;
+  width: 200px;
+  height: 60px;
+  background-color: white;
+}
